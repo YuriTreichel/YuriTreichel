@@ -2,8 +2,8 @@
 
 🎯 Desenvolvedor Web Fullstack com foco em Laravel e React  
 🌍 Buscando oportunidades no Canadá  
-🚀 Fundador da Siga Sites | Especialista em criação de sites e e-commerces  
-📚 Atualmente estudando: React, Inglês e Soft Skills  
+🚀 CEO da Siga Sites | Especialista em criação de sites, sistemas e e-commerces  
+📚 Atualmente estudando: Docker e IA 
 
 ---
 
